@@ -8,9 +8,9 @@ Esto es un posible boceto para presentar los servicios de nuestro hotelito. Buen
 
 ## Tecnologías Utilizadas
 
-- **HTML:**
-- **CSS:**
-- **JavaScript:**
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Animaciones y Media queries
 
@@ -24,4 +24,4 @@ Esto es un posible boceto para presentar los servicios de nuestro hotelito. Buen
 ## Instalación
 
 1. Clona este repositorio: `git clone https://github.com/christinalorenzomontes/hotelito`
-2. Abre el archivo `index.html` en tu navegador web.
+2. Abre el archivo `index.html` en tu navegador.

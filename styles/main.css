@@ -262,7 +262,7 @@ button:hover {
 
 @media only screen and (max-width: 600px) {
   header {
-    height: 200px;
+    height: 250px;
   }
   
   header h1 {
@@ -320,5 +320,59 @@ button:hover {
 
   .benefits-item p {
     display: none;
+  }
+}
+@media only screen and (min-width: 601px) and (max-width: 1080px) {
+  header {
+    height: 300px;
+  }
+
+  header h1 {
+    font-size: 36px;
+  }
+
+  .main-section {
+    padding: 48px 0;
+  }
+
+  .h2-home {
+    font-size: 24px;
+  }
+
+  .main-section .container {
+    flex-direction: row;
+  }
+
+  .main-section .image,
+  .main-section .content {
+    width: 50%;
+  }
+
+  .popup-content {
+    width: 35%;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -50%);
+  }
+
+  .popup-content::after {
+    top: 150px;
+  }
+
+  .benefits {
+    padding: 16px 0;
+  }
+
+  .benefits-title {
+    font-size: 24px;
+  }
+
+  .icons {
+    gap: 12px;
+  }
+
+  .benefits-item {
+    width: calc(50% - 16px);
+    margin: 8px;
   }
 }

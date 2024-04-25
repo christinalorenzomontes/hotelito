@@ -14,8 +14,8 @@ Esto es un posible boceto para presentar los servicios de nuestro hotelito. Buen
 
 ## Animaciones y Media queries
 
-- **Animaciones:** Se han incorporado animaciones sutiles en los botones y transiciones para mejorar la experiencia del usuario.
-- **Media Queries:** La página es completamente responsive, adaptándose a diferentes tamaños de pantalla para una experiencia óptima en dispositivos móviles, tablets y ordenadores.
+- **Animaciones:** Se han incorporado animaciones y transiciones sutiles para mejorar la experiencia del usuario.
+- **Media Queries:** La maquetación es responsive, adaptándose a diferentes tamaños de pantalla para una experiencia óptima.
 
 ## Demostración
 

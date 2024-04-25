@@ -56,6 +56,10 @@ header img {
   border-radius: 2px;
 }
 
+.h2-home {
+  font-size: 32px;
+}
+
 .h2-home,
 button {
   text-transform: uppercase;
@@ -142,6 +146,7 @@ button:hover {
 
 .benefits-title {
   margin-bottom: 30px;
+  font-size: 24px;
 }
 
 .icons {
@@ -264,13 +269,21 @@ button:hover {
     font-size: 24px;
   }
   
+  .main-section {
+    padding: 40px 16px;
+  }
+
+  .h2-home {
+    font-size: 20px;
+  }
+  
   .main-section .container {
     flex-direction: column;
   }
   
   .main-section .image,
   .main-section .content {
-    width: 100%;
+    width: 80%;
   }
   
   .popup-content {
@@ -281,6 +294,10 @@ button:hover {
 
   .benefits  {
     padding: 8px;
+  }
+
+  .benefits-title {
+    font-size: 20px;
   }
 
   .icons {

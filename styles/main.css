@@ -287,9 +287,14 @@ button:hover {
   }
   
   .popup-content {
-    width: 90%;
-    left: 50%;
+    width: 30%;
+    left: 20%;
+    top: 25%;
     transform: translateX(-50%);
+  }
+
+  .popup-content::after {
+    top: 120px;
   }
 
   .benefits  {

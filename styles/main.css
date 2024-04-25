@@ -254,3 +254,49 @@ button:hover {
   width: 900px;
   height: 200px;
 }
+
+@media only screen and (max-width: 600px) {
+  header {
+    height: 200px;
+  }
+  
+  header h1 {
+    font-size: 24px;
+  }
+  
+  .main-section .container {
+    flex-direction: column;
+  }
+  
+  .main-section .image,
+  .main-section .content {
+    width: 100%;
+  }
+  
+  .popup-content {
+    width: 90%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .benefits  {
+    padding: 8px;
+  }
+
+  .icons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+  }
+
+  .benefits-item {
+    width: calc(36% - 16px);
+    margin: 8px;
+    text-align: center;
+  }
+
+  .benefits-item p {
+    display: none;
+  }
+}
